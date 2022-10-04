@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-      
+      <h2>hi</h2>
           <Route path="/">
            <Header/>
             <Home/>
